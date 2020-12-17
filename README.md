@@ -4,7 +4,8 @@ Jérôme Le Gal (he|his), French System Engineer in love with DevOps. Eternal
 learner, husband, rock climber and traveler...
 
 - :luggage: I'm currently looking for my next mission
-- :books: This days I'm learning Terraform to play with AWS, GCP, and Azure :nerd_face:
+- :books: This days I'm learning Terraform to play with AWS, GCP, and Azure
+  :nerd_face:. And I also do a lot of Python :snake:
 - :mag_right: I'm looking for a team to colaborate with on projects involving
   automation, performance, and high availability :rocket:
 - :zap: Fun fact: I did once break my back practicing rock climbing, but I was
